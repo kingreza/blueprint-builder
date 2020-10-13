@@ -1,0 +1,34 @@
+PODS:
+  - BlueprintUI (0.16.0)
+  - BlueprintUICommonControls (0.16.0):
+    - BlueprintUI
+  - ReactiveSwift (6.0.0)
+  - Workflow (0.28.1):
+    - ReactiveSwift (~> 6.0.0)
+  - WorkflowUI (0.28.1):
+    - Workflow (= 0.28.1)
+
+DEPENDENCIES:
+  - BlueprintUI
+  - BlueprintUICommonControls
+  - Workflow
+  - WorkflowUI
+
+SPEC REPOS:
+  trunk:
+    - BlueprintUI
+    - BlueprintUICommonControls
+    - ReactiveSwift
+    - Workflow
+    - WorkflowUI
+
+SPEC CHECKSUMS:
+  BlueprintUI: 5c667416346644e2199c441ff5f1288bd8890a04
+  BlueprintUICommonControls: 700e23030617ffc3a62621cb875cd9965a2292b3
+  ReactiveSwift: 24b7ed245617bbfd30ee0c87779b6c64ac1b4518
+  Workflow: f1462201a930862bac3bf59bde933db6908d1b16
+  WorkflowUI: 13fd5f0508b9f72ddfcf3efc31ba97bbf58b169a
+
+PODFILE CHECKSUM: d0239e50134784d5c23c9a0ba3597a505846bf2a
+
+COCOAPODS: 1.9.1
